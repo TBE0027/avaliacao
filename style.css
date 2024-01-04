@@ -1,0 +1,74 @@
+.header{
+    background-color: #00cba9;
+    font-family: sans-serif;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.email{
+    background-color: #00cba9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+
+.ondinha{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+}
+
+.notebook{
+    position: absolute;
+    padding-left: 39%;
+}
+
+.highlights{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    display: flex;
+    flex-flow:row;
+    align-content: flex-start;
+}
+
+.logos{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+
+.frase{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+
+.faqsBox{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row-reverse;
+    align-items:center;
+    justify-content: start;
+}
+
+.faqs{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    display: flex;
+    flex-wrap:wrap-reverse;
+    flex-direction: column;
+    align-content: flex-start;
+}
